@@ -2,20 +2,13 @@
 
 ## Índice
 
-- [Etapa 1](#etapa-1-fundamentos-do-golang)
-- [Etapa 2](#etapa-2-trabalhando-com-pacotes-e-gerenciamento-de-dependências)
-- [Etapa 3](#etapa-3-concorrência-e-paralelismo)
-- [Etapa 4](#etapa-4-banco-de-dados-e-persistência)
-- [Etapa 5](#etapa-5-segurança-e-autenticação)
+- [Etapa 1](#Sintaxe Básica)
 
 ## Etapa 1: Fundamentos do GoLang
 
-- Aprenda os conceitos básicos da linguagem Go, como sintaxe, tipos de dados, estruturas de controle (if, for, switch), funções e pacotes.
-- Recursos recomendados:
-    - [Tour pelo Go](https://tour.golang.org/welcome/1): Um tutorial interativo e introdutório que cobre os conceitos básicos do Go.
-    - [Effective Go](https://golang.org/doc/effective_go.html): Um guia oficial do Go que descreve as melhores práticas e convenções para escrever código Go.
 
-Utilizaremos o livro [Introdução à Linguagem Go - Crie programas escaláveis e confiáveis de Caleb Doxsey (O'Reilly). Copyrigth 2016 Caleb Doxsey, _ISBN_ 978-1-4919-4195-9](https://amzn.to/3QtuU0R)
+
+Utilizado o livro [Introdução à Linguagem Go - Crie programas escaláveis e confiáveis de Caleb Doxsey (O'Reilly). Copyrigth 2016 Caleb Doxsey, _ISBN_ 978-1-4919-4195-9](https://amzn.to/3QtuU0R)
 
 **Desafio de Projeto: Criar uma aplicação CLI (Command Line Interface)** Crie uma aplicação de linha de comando simples que realiza uma tarefa específica, como calcular estatísticas básicas em um conjunto de dados ou converter unidades de medida. Isso ajudará a aplicar os conceitos básicos aprendidos e a familiarizar-se com a sintaxe e a estrutura do Go.
 
